@@ -2,6 +2,7 @@
 	"author": "Kisara",
 	"description": "This is my first time practicing backend",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["freecodecamp, newbie, nodejs"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
